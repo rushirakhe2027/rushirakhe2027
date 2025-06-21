@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hi, I'm Rushikesh Y. Rakhe, a passionate and aspiring software developer with a strong foundation in computer engineering and a keen interest in innovative technologies.
+👋 Hi, I'm Rushikesh Y. Rakhe, a passionate and aspiring software developer with a strong foundation in both computer And Electronics engineering and a keen interest in innovative technologies.
 
 🎓 Bachelor of Technology (B.Tech.) in ENTC
 🔍 Eager to apply my academic knowledge and hands-on experience in real-world software and IOT projects
